@@ -1,9 +1,10 @@
+/*
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sneaky/constants.dart';
-import 'package:sneaky/screens/components/body.dart';
 
 class HomeScreen extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -75,3 +76,4 @@ class HomeScreen extends StatelessWidget {
   }
 
 }
+ */
