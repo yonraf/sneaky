@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:sneaky/screens/components/shoe_widget.dart';
 
 import '../constants.dart';
 
@@ -31,6 +32,7 @@ class Home extends StatelessWidget {
                     ),
                   ),
                 ),
+                ShoeWidget(),
               ],
 
             ),
@@ -62,7 +64,7 @@ class Home extends StatelessWidget {
 
                     ),
                   ),
-            ))
+            )),
           ],
         ),
     );
